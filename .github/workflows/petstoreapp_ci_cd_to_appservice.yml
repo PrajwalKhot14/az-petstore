@@ -3,6 +3,7 @@ name: Pet Store App CI/CD to Azure App Service
 env:
   AZURE_CONTAINER_REGISTRY: azurepetstorecrpk.azurecr.io
   AZURE_CONTAINER_REGISTRY_USERNAME: azurepetstorecrpk
+
   
 on:
   push:
